@@ -1,0 +1,18 @@
+public class Array1 {
+
+    public static void main(String args[]) {
+        int nilai[]=new int[3];
+        nilai[0]=70;
+        nilai[1]=80;
+        nilai[2]=65;
+        double ratarata=0.0;
+
+        for(int i=0; i<nilai.length; i++)
+            ratarata+=nilai[i]; /* nilai pada array dijumlahkan dan disimpan di ratarata*/
+
+        ratarata/=nilai.length; /* nilai pada ratarata dibagi dengan panjang array*/
+        System.out.println("Nilai rata-rata = " + ratarata); /* menampilkan nilai rata rata*/
+
+    }
+
+}
