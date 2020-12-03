@@ -39,7 +39,7 @@ $java Main
 
 MENJALANKAN PROGRAM
 
-1. Buka apk BlueJ
+1. Buka BlueJ
 2. kemudian membuka file Main.java, Penumpang.java dan Bus.java
 3. lalu compile lihat apakah ada eror atau tidak
 4. Lalu kita run file Main.java untuk memulai
